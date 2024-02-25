@@ -1,0 +1,1 @@
+A SAL Merchant needs to create an account by providing a merchant name and merchant ID, these are used to validate each merchant. The credentials are needed to log into the users account in order to be able to add to the list of products on SAL.
